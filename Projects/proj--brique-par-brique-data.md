@@ -2,21 +2,21 @@
 tags:
   - type/project
   - status/draft
-created: 
-updated: 
-sponsor: 
+created: 2026-04-09
+updated:
+sponsor: "[[Brique par Brique]]"
 status: In Planning
-repo-link: 
-start-date: 
+priority: Medium
+repo-link:
 ---
 
-# Project: [Project Name]
+# Project: proj--brique-par-brique-data
 
 ## Overview
-- **Sponsor**: 
-- **Date Started**: 
-- **Current Status**: In Planning / In Progress / On Hold / Completed
-- **Repository**: [Link to GitHub](https://github.com/)
+- **Sponsor**: Brique par Brique
+- **Date Started**: 2026-04-09
+- **Current Status**: In Progress
+- **Repository**: [Link to GitHub](https://github.com/CivicTechMTL/BriqueParBriqueData)
 - **Description**: 
 
 ## Goals

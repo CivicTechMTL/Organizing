@@ -1,3 +1,7 @@
+---
+aliases:
+  - Roles
+---
 # Volunteer Roles
 
 This section outlines all volunteer roles at Civic Tech Montreal. Each role includes detailed responsibilities, commitment length, and step-by-step guidance for success.

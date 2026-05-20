@@ -1,3 +1,8 @@
+---
+aliases:
+  - Announcements
+---
+
 # Announcements Archive
 
 Historical record of organization-wide announcements, news, and milestones. This archive helps team members catch up on important updates and track the organization's growth.

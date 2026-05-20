@@ -1,3 +1,7 @@
+---
+aliases:
+  - Meetups
+---
 # Meetups
 
 Information about Civic Tech Montreal meetups, including schedules, event details, and past meetup notes.
@@ -22,7 +26,7 @@ Coming Soon!
 
 ## Key Information
 - **Regular Meeting**: [Time & Day TBD]
-- **Location**: [[Venue Name]] (TBD)
+- **Location**: [[ENAP 4108]] (TBD)
 - **Format**: Introductions → Presentations → Project Work
 - **Registration**: [Link TBD]
 

@@ -1,3 +1,13 @@
+---
+tags:
+  - type/meetup
+  - status/draft
+created: 
+updated: 
+organizer: 
+frequency: Weekly
+---
+
 # Meetup Schedule
 
 Regular meeting information for Civic Tech Montreal meetups.
@@ -5,36 +15,24 @@ Regular meeting information for Civic Tech Montreal meetups.
 ## Weekly Meetup
 
 ### Schedule
-- **Frequency**: Weekly (Details TBD)
-- **Day**: [TBD - e.g., Tuesday]
-- **Time**: [TBD - e.g., 6:00 PM - 9:00 PM]
-- **Location**: [[Venue Name]] (TBD)
-- **Format**: Hybrid / In-Person (TBD)
+- **Frequency**: Monthly (2nd Thursday of the Month)
+- **Day**: Thursday
+- **Time**: 6:30 PM 
+- **Location**: [[ENAP 4108]] OR 
+- **Format**: Hybrid 
 
-### Standard Agenda
-1. **6:00 PM** - Doors Open & Informal Networking
-2. **6:15 PM** - Introductions & Announcements
-   - Attendees introduce themselves (name, pronouns, something they're grateful for)
-   - See [[Greeter]] and [[Host]] roles
-3. **6:30 PM** - Featured Presentation (if applicable)
-   - Speaker presents on civic tech topic
-   - See [[Speaker Finder]] role
-4. **7:00 PM** - Q&A & Discussion
-5. **7:30 PM** - Project Work & Team Collaboration
-   - Teams work on [[Projects]]
-   - [[Civic Tech 101 Host]] leads newcomer session
-   - [[Project Lead]]s guide their teams
-6. **8:30 PM** - Wrap Up & Announcements
-7. **9:00 PM** - Event Ends
+## Calendar
 
-## Registration
-[Link to registration form coming soon]
-
-## Accessibility
-- ✓ Wheelchair Accessible
-- ✓ Gender-Neutral Bathrooms
-- ✓ Scent-Free Space
-- Questions about accessibility? Contact the organizing team
+<iframe
+  src="https://luma.com/embed/calendar/cal-ufE11n3n8vnRubz/events"
+  width="600"
+  height="450"
+  frameborder="0"
+  style="border: 1px solid #bfcbda88; border-radius: 4px;"
+  allowfullscreen=""
+  aria-hidden="false"
+  tabindex="0"
+></iframe>
 
 ## What to Bring
 - Laptop (optional but helpful for project work)

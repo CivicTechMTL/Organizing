@@ -1,3 +1,8 @@
+---
+aliases:
+  - Venues
+---
+
 # Venues
 
 Directory of venues where Civic Tech Montreal holds meetups and events. Each venue has important information about capacity, accessibility, amenities, and booking details.
@@ -8,8 +13,16 @@ Directory of venues where Civic Tech Montreal holds meetups and events. Each ven
 - Note wheelchair accessibility, parking, WiFi, and refreshment options
 - Link from [[Meetups]] pages and [[Venue Finder]] role
 
-## Venues
-Coming Soon! Add venues as you identify and book them.
+## All Venues
+
+```dataview
+table capacity, accessible, last-reviewed
+from "Venues"
+where !contains(file.name, "README")
+sort file.name
+```
+
+*Table auto-updates as you add venue pages. Requires Dataview plugin.*
 
 ## Venue Selection Criteria
 - ✓ Capacity of 30-100+ people

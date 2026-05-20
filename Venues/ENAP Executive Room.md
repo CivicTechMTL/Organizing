@@ -1,0 +1,42 @@
+---
+tags:
+  - type/venue
+  - status/active
+created: 2026-05-20
+updated:
+last-reviewed: 2025-05-20
+capacity: 20
+accessible: true
+---
+
+# Venue: ENAP Executive Room
+
+## Contact Information
+- **Address**: 4750 Av. Henri-Julien, Montréal, QC H1T 1P7 5th Floor
+- **Phone**: (514) 849-3989
+- **Website**: https://enap.ca/
+- **Contact Person**: Maxime Cuillerier (on Slack)
+- **Instructions**
+
+## Capacity & Amenities
+- **Capacity**: 20
+- **Wheelchair Accessible**: Yes 
+- **Parking**: Yes (street)
+- **WiFi**: Yes 
+- **Projector/Screen**: Yes (fully set up)
+- **Kitchen/Refreshments**: No
+
+## Cost
+- **Booking Requirements**: Setup for one year on the second Thursday of the month
+- **Cancellation Policy**:  Let Max know on Slack 
+
+## Parking & Transportation
+- **Nearby Transit**: Mont Royal or Laurier STM is nearby
+- **Parking Details**: Street Parking
+
+## Notes
+- 
+
+## Related
+- [[Venue Finder Role|Venue Finder]]
+- [[Meetups]]

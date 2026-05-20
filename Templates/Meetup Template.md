@@ -1,17 +1,29 @@
+---
+tags:
+  - type/meetup
+  - status/draft
+created: 
+date: 
+time: 
+venue: 
+organizer: 
+expected-attendance: 
+---
+
 # Meetup: [Date & Topic]
 
 ## Event Details
 - **Date**: 
 - **Time**: 
-- **Venue**: [[Venue Name]]
+- **Venue**: [[ENAP 4108]]
 - **Expected Attendance**: 
 
 ## Agenda
-- **6:00 PM** - Doors Open & Introductions
-- **6:15 PM** - Opening Remarks & Announcements
-- **6:30 PM** - [Speaker/Activity]
-- **7:00 PM** - Q&A / Discussion
-- **7:30 PM** - Project Work & Networking
+- **6:15 PM** - Doors Open & Introductions
+- **6:30 PM** - Opening Remarks & Announcements
+- **6:50 PM** - [Speaker/Activity]
+- **7:15 PM** - Q&A / Discussion
+- **7:30 PM** - Project Work 
 - **9:00 PM** - Wrap Up
 
 ## Roles & Responsibilities

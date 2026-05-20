@@ -1,3 +1,14 @@
+---
+tags:
+  - type/venue
+  - status/active
+created: 
+updated: 
+last-reviewed: 
+capacity: 
+accessible: true
+---
+
 # Venue: [Venue Name]
 
 ## Contact Information
@@ -16,7 +27,6 @@
 - **Kitchen/Refreshments**: Yes / No
 
 ## Cost
-- **Rental Fee**: 
 - **Booking Requirements**: 
 - **Cancellation Policy**: 
 

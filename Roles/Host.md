@@ -1,3 +1,13 @@
+---
+tags:
+  - type/role
+  - status/active
+created:
+updated:
+last-reviewed:
+commitment-length: 1 Month
+---
+
 # Host (Emcee)
 
 **Commitment length:** 1 Month

@@ -1,3 +1,7 @@
+---
+aliases:
+  - Projects
+---
 # Civic Tech Projects
 
 Overview of active and past civic tech projects developed at Civic Tech Montreal. Each project has a dedicated page with details about the sponsor, status, and GitHub repository.
@@ -8,8 +12,24 @@ Overview of active and past civic tech projects developed at Civic Tech Montreal
 - Link to [[Roles]] of team members and [[Venues]] for project work sessions
 - Update status regularly and include latest updates
 
-## Active Projects
-Coming Soon! Add projects here as they're launched.
+## All Projects
+
+```dataview
+table status, sponsor, repo-link, start-date
+from "Projects"
+where !contains(file.name, "README") and contains(tags, "type/project")
+sort status
+```
+
+**Filter by Status:**
+```dataview
+table status, sponsor, updated
+from "Projects"
+where !contains(file.name, "README") and status = "In Progress"
+sort file.name
+```
+
+*Tables auto-update as you add/modify project pages. Requires Dataview plugin.*
 
 ## Project Status Types
 - **In Planning**: Concept phase, gathering requirements

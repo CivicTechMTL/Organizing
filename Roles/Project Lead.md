@@ -1,3 +1,13 @@
+---
+tags:
+  - type/role
+  - status/active
+created: 
+updated: 
+last-reviewed: 
+commitment-length: Variable
+---
+
 # Project Lead
 
 **Commitment length:** Variable (dependent on project duration)

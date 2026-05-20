@@ -1,3 +1,13 @@
+---
+tags:
+  - type/role
+  - status/active
+created:
+updated:
+last-reviewed:
+commitment-length: 3 Months
+---
+
 # Venue Finder
 
 **Commitment length:** 3 Months

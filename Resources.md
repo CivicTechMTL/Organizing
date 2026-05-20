@@ -1,3 +1,7 @@
+---
+aliases:
+  - Resources
+---
 # Resources
 
 Guides, reference materials, and useful links for organizing and contributing to Civic Tech Montreal.
@@ -5,6 +9,7 @@ Guides, reference materials, and useful links for organizing and contributing to
 ## Getting Started
 - [[How to Contribute]] - Steps to get involved with Civic Tech Montreal
 - [[Civic Tech Glossary]] - Terms and concepts you'll encounter
+- [[Obsidian Plugin Setup]] - Set up auto-updating dates and other features
 
 ## Useful Links
 [[Useful Links]] - External resources, tools, and references

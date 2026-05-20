@@ -1,3 +1,14 @@
+---
+tags:
+  - type/minutes
+  - status/draft
+created:
+date:
+owner:
+participants: []
+next-meeting:
+---
+
 # Meeting Notes - {{DATE}}
 
 ## Attendees

@@ -1,3 +1,7 @@
+---
+aliases:
+  - Minutes
+---
 # Organizing Meeting Minutes
 
 Archive of organizing team meeting notes and decisions. These minutes document discussions, action items, and decisions made by the organizing committee.

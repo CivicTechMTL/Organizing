@@ -1,3 +1,13 @@
+---
+tags:
+  - type/announcement
+  - status/draft
+created: 
+date: 
+priority: Medium
+author: 
+---
+
 # Announcement - [Title]
 
 **Date Posted**: 
