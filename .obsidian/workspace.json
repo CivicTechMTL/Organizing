@@ -11,24 +11,10 @@
             "id": "93912d4facb3b148",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -104,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +99,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks"
             }
           },
           {
@@ -195,16 +180,24 @@
   },
   "active": "93912d4facb3b148",
   "lastOpenFiles": [
-    "Templates.md",
-    "Resources.md",
-    "Announcements.md",
-    "Minutes.md",
-    "Projects.md",
     "Meetups.md",
+    "Templates/Templates.md",
+    "Resources/Resources.md",
+    "Announcements/Announcements.md",
+    "Minutes/Minutes.md",
+    "Projects/Projects.md",
+    "Meetups/Meetups.md",
+    "Venues/Venues.md",
+    "Roles/Roles.md",
+    "Minutes.md",
+    "Resources.md",
+    "README.md",
     "Roles.md",
+    "Templates.md",
+    "Announcements.md",
+    "Projects.md",
     "Templates/README.md",
     "Venues.md",
-    "README.md",
     "Venues/ENAP Executive Room.md",
     "Venues/README.md",
     "Roles/Project Lead.md",
@@ -212,14 +205,6 @@
     "Minutes/README.md",
     "Projects/README.md",
     "Resources/README.md",
-    "Roles/README.md",
-    "Projects/proj--brique-par-brique-data.md",
-    "Venues/ENAP 4108.md",
-    "Resources/Obsidian Plugin Setup.md",
-    "Announcements/README.md",
-    "Meetups/Meetup Schedule.md",
-    "Templates/Meeting Notes Template.md",
-    "Resources/How to Contribute.md",
-    "Resources/Civic Tech Glossary.md"
+    "Roles/README.md"
   ]
 }
