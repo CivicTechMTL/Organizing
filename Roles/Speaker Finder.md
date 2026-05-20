@@ -86,3 +86,17 @@ Sincerely,
 [Your Name]  
 [Your Contact Information]  
 Civic Tech Montreal
+
+## Related Roles
+- [[Host]] — Introduces speakers at meetups
+- [[Civic Tech 101 Host]] — May present on civic tech topics
+- [[Venue Finder]] — Ensures venue has presentation equipment
+- [[Project Lead]] — May be available to present on projects
+
+## Related Documents
+- [[Meetup Schedule]] — Speaking slots and dates
+- [[Meetups]] — Individual meetup speaker details
+- [[Projects]] — Topics for presentations
+- [[Resources]] — Civic tech topics and resources
+- [[Useful Links]] — Speaker resources and references
+- [[Roles]] — All volunteer positions

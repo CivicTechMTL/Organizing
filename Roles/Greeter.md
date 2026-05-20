@@ -29,3 +29,14 @@ The Greeter is the first point of contact for attendees at our civic tech meetup
 8. **Support Late Arrivals** — Once the event has started, if people are still arriving:
    - Ask them to join quietly in the back
    - Stay by the door for 10–15 minutes after the event starts to direct any late arrivals
+
+## Related Roles
+- [[Host]] — Emcee who manages the meetup flow
+- [[Civic Tech 101 Host]] — Leads newcomer session
+- [[Venue Finder]] — Books the event venue
+
+## Related Documents
+- [[Meetup Schedule]] — Event times and locations
+- [[Venues]] — Where we meet and accessibility info
+- [[Meetups]] — Individual meetup details
+- [[Roles]] — All volunteer positions

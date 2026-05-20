@@ -44,3 +44,15 @@ The Project Lead is responsible for guiding and managing a specific civic tech p
    - Ensure all team members understand their individual tasks and responsibilities
    - Provide a method of communication between meetings (e.g., Slack, email list, shared document)
    - Create a clear understanding of what will be worked on at the next meetup
+
+## Related Roles
+- [[Host]] — Main event coordinator
+- [[Civic Tech 101 Host]] — Introduces new members to projects
+- [[Greeter]] — Welcomes new project members
+
+## Related Documents
+- [[Projects]] — Project profiles and overviews
+- [[Meetup Schedule]] — When projects meet
+- [[Meetups]] — Individual project meetup details
+- [[How to Contribute]] — Getting involved
+- [[Roles]] — All volunteer positions

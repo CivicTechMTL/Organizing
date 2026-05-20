@@ -71,3 +71,15 @@ Sincerely,
 [Your Name]  
 [Your Contact Information]  
 Civic Tech Montreal
+
+## Related Roles
+- [[Greeter]] — Guides attendees at the venue
+- [[Host]] — Runs the event at the venue
+- [[Speaker Finder]] — May need projector/screen at venue
+
+## Related Documents
+- [[Venues]] — Venue directory and profiles
+- [[Meetup Schedule]] — When venues are needed
+- [[Meetups]] — Individual meetup locations
+- [[Roles]] — All volunteer positions
+- [[Announcements]] — Announce new venues

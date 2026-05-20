@@ -48,3 +48,15 @@ Before the meetup, review and update the presentation deck with the following:
    - Thank attendees for their participation
    - Announce any upcoming events or announcements
    - End the meetup at the scheduled end time
+
+## Related Roles
+- [[Greeter]] — Welcome attendees at the door
+- [[Civic Tech 101 Host]] — Lead newcomer education session
+- [[Project Lead]] — Guide project discussions
+- [[Speaker Finder]] — Book presentation speakers
+
+## Related Documents
+- [[Meetup Schedule]] — Regular meetup times and locations
+- [[Projects]] — Active projects to feature
+- [[Announcements]] — Upcoming announcements to share
+- [[Venues]] — Meetup location details

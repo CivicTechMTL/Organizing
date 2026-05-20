@@ -40,3 +40,17 @@ The Civic Tech 101 Host introduces new members to the world of civic technology 
    - Stay connected with the community
 
 8. **Wrap Up the Session** — Thank everyone for attending and let them know where they can find more information about the community.
+
+## Related Roles
+- [[Host]] — Main event emcee
+- [[Greeter]] — Welcome attendees
+- [[Project Lead]] — Guide active projects
+- [[Speaker Finder]] — Book speakers for education sessions
+
+## Related Documents
+- [[Resources]] — Learning materials and guides
+- [[Civic Tech Glossary]] — Key concepts and terms
+- [[How to Contribute]] — Getting started guide
+- [[Projects]] — Active projects to introduce
+- [[Meetup Schedule]] — When sessions happen
+- [[Roles]] — All volunteer positions
