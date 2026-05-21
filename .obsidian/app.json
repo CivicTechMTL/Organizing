@@ -4,5 +4,6 @@
   "showFrontmatter": false,
   "strictLineBreaks": false,
   "showUnsupportedFiles": true,
-  "promptDelete": true
+  "promptDelete": true,
+  "useMarkdownLinks": true
 }
