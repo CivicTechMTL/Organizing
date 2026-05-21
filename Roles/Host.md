@@ -67,6 +67,6 @@ Before the meetup, review and update the presentation deck with the following:
 
 ## Related Documents
 - [[Meetup Schedule]] — Regular meetup times and locations
-- [[Projects]] — Active projects to feature
-- [[Announcements]] — Upcoming announcements to share
-- [[Venues]] — Meetup location details
+- [[_Projects]] — Active projects to feature
+- [[_Announcements]] — Upcoming announcements to share
+- [[_Venues]] — Meetup location details

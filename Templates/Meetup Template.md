@@ -49,5 +49,5 @@ expected-attendance:
 
 ## Related
 - [[Meetup Schedule]]
-- [[Roles]]
-- [[Projects]]
+- [[_Roles]]
+- [[_Projects]]

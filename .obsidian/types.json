@@ -6,6 +6,7 @@
     "created": "date",
     "updated": "datetime",
     "last-reviewed": "date",
-    "capacity": "number"
+    "capacity": "number",
+    "date": "date"
   }
 }

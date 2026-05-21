@@ -88,8 +88,8 @@ Civic Tech Montreal
 - [[Speaker Finder]] — May need projector/screen at venue
 
 ## Related Documents
-- [[Venues]] — Venue directory and profiles
+- [[_Venues]] — Venue directory and profiles
 - [[Meetup Schedule]] — When venues are needed
-- [[Meetups]] — Individual meetup locations
-- [[Roles]] — All volunteer positions
-- [[Announcements]] — Announce new venues
+- [[_Meetups]] — Individual meetup locations
+- [[_Roles]] — All volunteer positions
+- [[_Announcements]] — Announce new venues

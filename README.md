@@ -1,17 +1,17 @@
-# Civic Tech Montreal — Organizing Vault
+# Civic Tech Montreal — Organizing 
 
-Welcome to the Civic Tech Montreal organizing vault! This is a central knowledge hub for volunteer roles, meetup planning, projects, venues, and organizational information.
+Welcome to the Civic Tech Montreal organizing repo! This is a central knowledge hub for volunteer roles, meetup planning, projects, venues, and organizational information.
 
 ## 📖 What's in Here
 
-- **[[Roles]]** — Volunteer positions and detailed runsheets
-- **[[Meetups]]** — Meetup schedules, event details, and archives
-- **[[Projects]]** — Civic tech projects we're working on
-- **[[Venues]]** — Meeting spaces and event locations
-- **[[Minutes]]** — Organizing team meeting notes and decisions
-- **[[Announcements]]** — Organization news and updates
+- **[[_Roles]]** — Volunteer positions and detailed runsheets
+- **[[_Meetups]]** — Meetup schedules, event details, and archives
+- **[[_Projects]]** — Civic tech projects we're working on
+- **[[_Venues]]** — Meeting spaces and event locations
+- **[[_Minutes]]** — Organizing team meeting notes and decisions
+- **[[_Announcements]]** — Organization news and updates
 - **[[Resources]]** — Guides, glossaries, and useful links
-- **[[Templates]]** — Document templates for creating new pages
+- **[[_Templates]]** — Document templates for creating new pages
 
 ## 🚀 Quick Start
 
@@ -37,7 +37,7 @@ Welcome to the Civic Tech Montreal organizing vault! This is a central knowledge
    - Click "Open" — Obsidian will recognize this as a vault!
 
 3. **Start Exploring:**
-   - Click any blue wikilink (like [[Roles]] or [[Projects]]) to navigate
+   - Click any blue wikilink (like [[_Roles]] or [[_Projects]]) to navigate
    - Use Obsidian's **Graph View** (Ctrl/Cmd + Shift + G) to see connections between documents
    - Click the file browser on the left to browse by folder
 
@@ -49,7 +49,7 @@ Obsidian has optional community plugins. These are free and enhance the vault:
 2. Search for and install:
    - **Front Matter Title** ⭐ *Recommended* — Auto-updates `created` and `updated` dates in YAML frontmatter
    - **Calendar** — See meeting dates in a calendar view
-   - **Dataview** — Create dynamic lists and tables from your documents
+   - **Dataview** — Create dynamic lists and tables from your documents (optional)
 
 **Setting Up Auto-Updated Dates:**
 1. Install "Front Matter Title" plugin
@@ -69,11 +69,11 @@ This ensures every time you edit a document, the `updated` field updates automat
 
 ### Option 2: View on GitHub
 
-If you prefer not to install Obsidian, you can browse the repository directly on GitHub. Wikilinks won't be clickable, but you can still read all the documents.
+If you prefer not to install Obsidian, you can browse the repository directly on GitHub. Wikilinks won't be clickable, but you can still read all the documents. 
 
 ---
 
-## 📝 Using This Vault
+## 📝 Using This Repo
 
 ### Tag Structure
 
@@ -97,56 +97,15 @@ Documents are organized with **hierarchical tags** for easy filtering and discov
 - Use the **Tags Pane** (Ctrl/Cmd + Shift + #) to explore all tags
 - Filter documents by clicking a tag in a document's frontmatter
 
-### YAML Metadata
-
-Each document includes metadata in YAML frontmatter for tracking and querying:
-
-**Common Fields:**
-- `created` — Date the document was created (auto-set once, never changes)
-- `updated` — Last modified date (auto-updates when you save using Front Matter Title plugin)
-- `owner` — Person responsible for the document
-- `priority` — High / Medium / Low
-
-**Project-Specific Fields:**
-- `sponsor` — Who is sponsoring the project
-- `status` — In Planning / In Progress / On Hold / Completed
-- `repo-link` — Link to GitHub repository
-- `start-date` — When the project started
-
-**Meeting-Specific Fields:**
-- `date` — Event or meeting date
-- `participants` — People attending
-- `next-meeting` — When the next meeting is scheduled
-
-**Role-Specific Fields:**
-- `commitment-length` — Time commitment required
-- `last-reviewed` — When the role description was last updated
-
-**Using YAML with Dataview:**
-Install the Dataview plugin to create dynamic queries:
-- List all active projects: `task where contains(tags, "status/active") and contains(tags, "type/project")`
-- Find projects by status: `where status = "In Progress"`
-- See upcoming meetups: `where date > today`
-
-### Understanding Wikilinks
-
-**Wikilinks** (words in double brackets like [[this]]) are clickable links to other documents. They help you navigate between related information:
-
-- [[Roles]] links to volunteer positions
-- [[Projects]] links to civic tech projects
-- [[Venues]] links to meeting locations
-
-In Obsidian, click any wikilink to jump to that document.
-
 ### Creating New Documents
 
 Use **Templates** to create new documents with consistent structure:
 
-1. Go to the [[Templates]] folder
+1. Go to the [[_Templates]] folder
 2. Copy a template (e.g., [[Project Template]])
 3. Paste it and rename it with your content
 4. Fill in the details
-5. Link it from relevant index pages (like [[Projects]] [[Venues/README|README]])
+5. Link it from relevant index pages (like [[_Projects]] [[Venues/README|README]])
 
 ### Search & Explore
 
@@ -159,8 +118,8 @@ Use **Templates** to create new documents with consistent structure:
 
 Several pages use **Dataview** to automatically compile and display lists:
 
-- **[[Venues]]** — Table of all venues with capacity, accessibility, owner
-- **[[Projects]]** — Table of all projects with status, sponsor, repo link
+- **[[_Venues]]** — Table of all venues with capacity, accessibility, owner
+- **[[_Projects]]** — Table of all projects with status, sponsor, repo link
 
 These tables **auto-update** when you create or modify venue/project documents. The YAML frontmatter fields (`capacity`, `status`, `owner`, etc.) populate the tables automatically.
 
@@ -168,7 +127,7 @@ These tables **auto-update** when you create or modify venue/project documents. 
 1. Obsidian Settings → Community Plugins → Browse
 2. Search for "Dataview"
 3. Install and Enable
-4. Tables on [[Venues]] and [[Projects]] will now display live data
+4. Tables on [[_Venues]] and [[_Projects]] will now display live data
 
 See [[Obsidian Plugin Setup]] for full plugin configuration details.
 
@@ -188,7 +147,7 @@ We welcome contributions! Here's how:
 - Use [[wikilinks]] to connect related documents
 - Update index READMEs when adding new documents
 - Keep document titles and links consistent
-- Use appropriate [[Templates]] for new content
+- Use appropriate [[_Templates]] for new content
 
 ---
 
@@ -198,17 +157,17 @@ We welcome contributions! Here's how:
 
 | Section | Purpose | Key Files |
 |---------|---------|-----------|
-| [[Roles]] | Volunteer positions and responsibilities | [[Host]], [[Greeter]], [[Project Lead]], etc. |
-| [[Meetups]] | Event schedules and details | [[Meetup Schedule]], Individual meetup pages |
-| [[Projects]] | Civic tech projects | Project profiles with GitHub links, status |
-| [[Venues]] | Meeting locations | Venue contacts, accessibility, capacity |
-| [[Minutes]] | Organizing decisions | Meeting notes and action items |
-| [[Announcements]] | News and milestones | Organization updates and achievements |
+| [[_Roles]] | Volunteer positions and responsibilities | [[Host]], [[Greeter]], [[Project Lead]], etc. |
+| [[_Meetups]] | Event schedules and details | [[Meetup Schedule]], Individual meetup pages |
+| [[_Projects]] | Civic tech projects | Project profiles with GitHub links, status |
+| [[_Venues]] | Meeting locations | Venue contacts, accessibility, capacity |
+| [[_Minutes]] | Organizing decisions | Meeting notes and action items |
+| [[_Announcements]] | News and milestones | Organization updates and achievements |
 | [[Resources]] | Guides and references | [[How to Contribute]], [[Civic Tech Glossary]], [[Useful Links]] |
 
 ### Meta
 
-- **[[Templates]]** — Document templates for consistency
+- **[[_Templates]]** — Document templates for consistency
 - **.obsidian/** — Obsidian vault configuration
 - **README.md** — This file
 
@@ -217,32 +176,26 @@ We welcome contributions! Here's how:
 ## 🔗 Important Links
 
 - **GitHub**: [CivicTechMTL/Organizing](https://github.com/CivicTechMTL/Organizing)
-- **Website**: [civictechmt.org](https://civictechmt.org) (TBD)
-- **Slack**: #civic-tech-mtl (TBD)
-- **Meetup**: [meetup.com](https://meetup.com) (TBD)
+- **Website**: [civictechmtl.ca](http://civictechmtl.ca (TBD)
+- **Slack**: [#civic-tech-mtl ](https://join.slack.com/t/civictechmontreal/shared_invite/zt-3sx2os89v-6rIwr2sNmhl6r2FZvyPoCQ)
+- **Luma**: [luma.com](https://luma.com/civictechmontreal) 
 
 ---
 
 ## ❓ Questions?
 
 - **Attending a meetup?** Introduce yourself and ask! See [[Meetup Schedule]]
-- **Want to volunteer?** Check out [[How to Contribute]] and [[Roles]]
+- **Want to volunteer?** Check out [[How to Contribute]] and [[_Roles]]
 - **Learning civic tech?** See [[Civic Tech Glossary]] and [[Useful Links]]
-- **Want to start a project?** See [[Projects]] and reach out to a [[Project Lead]]
-
----
-
-## 📜 License
-
-This organizing vault is open and available under an appropriate open license. See LICENSE file for details (coming soon).
+- **Want to start a project?** See [[_Projects]]
 
 ---
 
 ## 🎯 Next Steps
 
 - **New to civic tech?** Start with [[How to Contribute]]
-- **Looking for a role?** Browse [[Roles]]
-- **Interested in a project?** Check [[Projects]]
+- **Looking for a role?** Browse [[_Roles]]
+- **Interested in a project?** Check [[_Projects]]
 - **Want to attend?** See [[Meetup Schedule]]
 
 Welcome to Civic Tech Montreal! 🚀

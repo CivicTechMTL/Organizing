@@ -61,6 +61,6 @@ The Civic Tech 101 Host introduces new members to the world of civic technology 
 - [[Resources]] — Learning materials and guides
 - [[Civic Tech Glossary]] — Key concepts and terms
 - [[How to Contribute]] — Getting started guide
-- [[Projects]] — Active projects to introduce
+- [[_Projects]] — Active projects to introduce
 - [[Meetup Schedule]] — When sessions happen
-- [[Roles]] — All volunteer positions
+- [[_Roles]] — All volunteer positions

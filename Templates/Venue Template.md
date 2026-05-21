@@ -47,4 +47,4 @@ accessible: true
 
 ## Related
 - [[Venue Finder Role|Venue Finder]]
-- [[Meetups]]
+- [[_Meetups]]

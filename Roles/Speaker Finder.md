@@ -105,8 +105,8 @@ Civic Tech Montreal
 
 ## Related Documents
 - [[Meetup Schedule]] — Speaking slots and dates
-- [[Meetups]] — Individual meetup speaker details
-- [[Projects]] — Topics for presentations
+- [[_Meetups]] — Individual meetup speaker details
+- [[_Projects]] — Topics for presentations
 - [[Resources]] — Civic tech topics and resources
 - [[Useful Links]] — Speaker resources and references
-- [[Roles]] — All volunteer positions
+- [[_Roles]] — All volunteer positions

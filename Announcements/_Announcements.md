@@ -11,7 +11,7 @@ Historical record of organization-wide announcements, news, and milestones. This
 - See [[Announcement Template]] for formatting new announcements
 - Archive by month or topic
 - Include type (news, milestone, call for help, event, etc.)
-- Link to related [[Projects]], [[Meetups]], and [[Roles]]
+- Link to related [[_Projects]], [[_Meetups]], and [[_Roles]]
 
 ## Recent Announcements
 Coming Soon! Add announcements as the organization grows.
@@ -36,7 +36,7 @@ Coming Soon! Add announcements as the organization grows.
 ---
 
 ## Related Documentation
-- [[Projects]] - Project news and updates
-- [[Meetups]] - Event announcements
-- [[Minutes]] - Decisions that lead to announcements
+- [[_Projects]] - Project news and updates
+- [[_Meetups]] - Event announcements
+- [[_Minutes]] - Decisions that lead to announcements
 - [[Resources]] - Important resource announcements

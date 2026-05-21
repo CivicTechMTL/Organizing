@@ -15,9 +15,9 @@ Information about Civic Tech Montreal meetups, including schedules, event detail
 
 ## Using Meetup Pages
 - See [[Meetup Template]] for formatting new meetup events
-- Link to [[Roles]] that are staffing the event
-- Link to [[Venues]] where it's taking place
-- Note [[Projects]] that will be featured or demoed
+- Link to [[_Roles]] that are staffing the event
+- Link to [[_Venues]] where it's taking place
+- Note [[_Projects]] that will be featured or demoed
 
 ## Recent Meetups
 Coming Soon!
@@ -31,7 +31,7 @@ Coming Soon!
 - **Registration**: [Link TBD]
 
 ## Related Documents
-- [[Roles]] - Event facilitation volunteers
-- [[Venues]] - Where we meet
-- [[Projects]] - What we work on
+- [[_Roles]] - Event facilitation volunteers
+- [[_Venues]] - Where we meet
+- [[_Projects]] - What we work on
 - [[Resources]] - Guides and documentation

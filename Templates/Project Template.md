@@ -34,7 +34,7 @@ start-date:
 | | | |
 
 ## Resources
-- Related: [[Venues]], [[Meetups]]
+- Related: [[_Venues]], [[_Meetups]]
 - Documentation: 
 - Helpful Links: 
 

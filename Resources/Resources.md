@@ -38,9 +38,9 @@ Guides, reference materials, and useful links for organizing and contributing to
 - Share useful tools, guides, and links with the team
 - Add new resources to this section regularly
 - Keep documentation up-to-date
-- Link resources to related [[Projects]] and [[Roles]]
+- Link resources to related [[_Projects]] and [[_Roles]]
 
 ## Related Documentation
-- [[Roles]] - Volunteer positions and responsibilities
-- [[Projects]] - Civic tech projects we're working on
-- [[Meetups]] - Events and gatherings
+- [[_Roles]] - Volunteer positions and responsibilities
+- [[_Projects]] - Civic tech projects we're working on
+- [[_Meetups]] - Events and gatherings

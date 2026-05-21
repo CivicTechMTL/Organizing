@@ -19,7 +19,7 @@ We're always looking for volunteers to fill key roles:
 See [[Volunteer Roles|Roles]] for detailed information and time commitments.
 
 ## Get Involved with Projects
-- Browse [[Projects]] to see active initiatives
+- Browse [[_Projects]] to see active initiatives
 - Check project [[Venues/README|README]] in their GitHub repo for how to contribute
 - Reach out to the [[Project Lead]] for your project of interest
 

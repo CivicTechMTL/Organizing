@@ -46,6 +46,6 @@ Identifies and books speakers for meetup presentations on civic tech topics.
 4. **Refer back** to the runsheet as needed during your commitment
 
 ## Related Documentation
-- [[Meetups]]
-- [[Projects]]
+- [[_Meetups]]
+- [[_Projects]]
 - [[Resources]]

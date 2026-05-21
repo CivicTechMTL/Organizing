@@ -61,8 +61,8 @@ The Project Lead is responsible for guiding and managing a specific civic tech p
 - [[Greeter]] — Welcomes new project members
 
 ## Related Documents
-- [[Projects]] — Project profiles and overviews
+- [[_Projects]] — Project profiles and overviews
 - [[Meetup Schedule]] — When projects meet
-- [[Meetups]] — Individual project meetup details
+- [[_Meetups]] — Individual project meetup details
 - [[How to Contribute]] — Getting involved
-- [[Roles]] — All volunteer positions
+- [[_Roles]] — All volunteer positions

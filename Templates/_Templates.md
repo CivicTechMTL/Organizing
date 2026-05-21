@@ -34,12 +34,12 @@ Each template includes YAML frontmatter with tags and metadata fields, making it
 
 ## How to Use Templates
 
-1. Go to the [[Templates]] folder
+1. Go to the [[_Templates]] folder
 2. Open the template that matches your document type
 3. Copy the entire content (including YAML frontmatter)
 4. Create a new file in the appropriate folder
 5. Paste the template and fill in your information
-6. Save and link from relevant index pages (like [[Projects]] README or [[Venues]] README)
+6. Save and link from relevant index pages (like [[_Projects]] README or [[_Venues]] README)
 
 ## Template Benefits
 

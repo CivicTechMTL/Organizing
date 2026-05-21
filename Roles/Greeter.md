@@ -47,6 +47,6 @@ The Greeter is the first point of contact for attendees at our civic tech meetup
 
 ## Related Documents
 - [[Meetup Schedule]] — Event times and locations
-- [[Venues]] — Where we meet and accessibility info
-- [[Meetups]] — Individual meetup details
-- [[Roles]] — All volunteer positions
+- [[_Venues]] — Where we meet and accessibility info
+- [[_Meetups]] — Individual meetup details
+- [[_Roles]] — All volunteer positions

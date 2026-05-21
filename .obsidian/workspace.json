@@ -11,10 +11,24 @@
             "id": "93912d4facb3b148",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Minutes/2026 May.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026 May"
             }
           }
         ]
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#civic-tech-mtl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Minutes/2026 May.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +114,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 2026 May"
             }
           },
           {
@@ -180,31 +195,31 @@
   },
   "active": "93912d4facb3b148",
   "lastOpenFiles": [
+    "Meetups/Meetup Schedule.md",
+    "Meetups/_Meetups.md",
+    "Venues/_Venues.md",
+    "Templates/Venue Template.md",
+    "Roles/Civic Tech 101 Host.md",
+    "Roles/_Roles.md",
+    "Templates/_Templates.md",
+    "README.md",
+    "Minutes/2026 May.md",
+    "Venues/ENAP 4108.md",
+    "Venues/ENAP Executive Room.md",
+    "Projects/proj--brique-par-brique-data.md",
+    "Minutes/_Minutes.md",
+    "Announcements/_Announcements.md",
+    "Projects/_Projects.md",
     "Meetups.md",
-    "Templates/Templates.md",
     "Resources/Resources.md",
-    "Announcements/Announcements.md",
-    "Minutes/Minutes.md",
-    "Projects/Projects.md",
-    "Meetups/Meetups.md",
-    "Venues/Venues.md",
-    "Roles/Roles.md",
     "Minutes.md",
     "Resources.md",
-    "README.md",
     "Roles.md",
     "Templates.md",
     "Announcements.md",
     "Projects.md",
     "Templates/README.md",
     "Venues.md",
-    "Venues/ENAP Executive Room.md",
-    "Venues/README.md",
-    "Roles/Project Lead.md",
-    "Meetups/README.md",
-    "Minutes/README.md",
-    "Projects/README.md",
-    "Resources/README.md",
-    "Roles/README.md"
+    "Venues/README.md"
   ]
 }

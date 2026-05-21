@@ -17,7 +17,7 @@ repo-link:
 - **Date Started**: 2026-04-09
 - **Current Status**: In Progress
 - **Repository**: [Link to GitHub](https://github.com/CivicTechMTL/BriqueParBriqueData)
-- **Description**: 
+- **Description**: Brique par Brique is looking for a way to leverage data to build 
 
 ## Goals
 1. 
@@ -25,7 +25,7 @@ repo-link:
 3. 
 
 ## Team & Roles
-- **Project Lead**: [[Project Lead]]
+- **Project Lead**: Lucy Ortiz
 - **Contributors**: 
 
 ## Key Milestones
@@ -34,7 +34,7 @@ repo-link:
 | | | |
 
 ## Resources
-- Related: [[Venues]], [[Meetups]]
+- Related: [[_Venues]], [[_Meetups]]
 - Documentation: 
 - Helpful Links: 
 
