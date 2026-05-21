@@ -7,9 +7,9 @@ aliases:
 Archive of organizing team meeting notes and decisions. These minutes document discussions, action items, and decisions made by the organizing committee.
 
 ## Using Meeting Notes
-- See [[Meeting Notes Template]] for how to format new meeting notes
+- See [Meeting Notes Template](Templates/Meeting Notes Template.md) for how to format new meeting notes
 - Include attendees, agenda items, decisions, and action items with owners and due dates
-- Link to related [[_Projects]], [[_Roles]], and [[_Announcements]]
+- Link to related [Projects](Projects/_Projects.md), [Roles](Roles/_Roles.md), and [Announcements](Announcements/_Announcements.md)
 
 ## Recent Minutes
 - [2026-05-20 Organizing Meeting] (Coming Soon)
@@ -26,6 +26,6 @@ Archive of organizing team meeting notes and decisions. These minutes document d
 - Check action items across meetings to track progress
 
 ## Related Documents
-- [[_Projects]] - Project updates and decisions
-- [[_Announcements]] - Publicized decisions and news
-- [[_Roles]] - Role-related decisions and updates
+- [Projects](Projects/_Projects.md) - Project updates and decisions
+- [Announcements](Announcements/_Announcements.md) - Publicized decisions and news
+- [Roles](Roles/_Roles.md) - Role-related decisions and updates

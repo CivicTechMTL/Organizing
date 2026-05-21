@@ -53,6 +53,6 @@ Using technology and collaboration to address local community challenges.
 ---
 
 ## Resources for Learning More
-- [[Useful Links]] - External learning resources
-- [[How to Contribute]] - Getting started with civic tech
-- [[Meetup Schedule]] - Attend a meetup to learn by doing
+- [Useful Links](Resources/Useful Links.md) - External learning resources
+- [How to Contribute](Resources/How to Contribute.md) - Getting started with civic tech
+- [Meetup Schedule](Meetups/Meetup Schedule.md) - Attend a meetup to learn by doing

@@ -45,7 +45,7 @@ Occasional special events and workshops may be scheduled outside regular meetup 
 ---
 
 ## Related
-- [[_Meetups]] - Individual meetup pages
-- [[_Roles]] - Volunteer positions
-- [[_Venues]] - Where we meet
-- [[_Projects]] - What we work on
+- [Meetups](Meetups/_Meetups.md) - Individual meetup pages
+- [Roles](Roles/_Roles.md) - Volunteer positions
+- [Venues](Venues/_Venues.md) - Where we meet
+- [Projects](Projects/_Projects.md) - What we work on

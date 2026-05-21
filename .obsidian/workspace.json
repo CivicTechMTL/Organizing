@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Minutes/2026 May.md",
+                "file": "Projects/_Projects.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026 May"
+              "title": "_Projects"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Minutes/2026 May.md",
+                "file": "Projects/_Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026 May"
+              "title": "Backlinks for _Projects"
             }
           },
           {
@@ -195,6 +195,7 @@
   },
   "active": "93912d4facb3b148",
   "lastOpenFiles": [
+    "Minutes/2026 May.md",
     "Meetups/Meetup Schedule.md",
     "Meetups/_Meetups.md",
     "Venues/_Venues.md",
@@ -203,7 +204,6 @@
     "Roles/_Roles.md",
     "Templates/_Templates.md",
     "README.md",
-    "Minutes/2026 May.md",
     "Venues/ENAP 4108.md",
     "Venues/ENAP Executive Room.md",
     "Projects/proj--brique-par-brique-data.md",

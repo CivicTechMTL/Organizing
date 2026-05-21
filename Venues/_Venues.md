@@ -8,10 +8,10 @@ aliases:
 Directory of venues where Civic Tech Montreal holds meetups and events. Each venue has important information about capacity, accessibility, amenities, and booking details.
 
 ## Using Venue Pages
-- See [[Venue Template]] for formatting new venue pages
+- See [Venue Template](Templates/Venue Template.md) for formatting new venue pages
 - Include contact info, capacity, amenities, accessibility, and booking requirements
 - Note wheelchair accessibility, parking, WiFi, and refreshment options
-- Link from [[_Meetups]] pages and [[Venue Finder]] role
+- Link from [Meetups](Meetups/_Meetups.md) pages and [Venue Finder](Roles/Venue Finder.md) role
 
 ## All Venues
 
@@ -33,15 +33,15 @@ sort file.name
 - ✓ Projector/screen for presentations
 
 ## Booking Process
-1. Contact [[Venue Finder]] role holder
+1. Contact [Venue Finder](Roles/Venue Finder.md) role holder
 2. Confirm availability and pricing
 3. Submit booking form
 4. Create venue page documenting details
-5. Link to [[_Meetups]] that use this venue
+5. Link to [Meetups](Meetups/_Meetups.md) that use this venue
 
 ---
 
 ## Related Documentation
 - [[Venue Finder Role|Venue Finder]] - Person responsible for securing venues
-- [[_Meetups]] - Scheduled events and their locations
-- [[_Minutes]] - Venue-related decisions and discussions
+- [Meetups](Meetups/_Meetups.md) - Scheduled events and their locations
+- [Minutes](Minutes/_Minutes.md) - Venue-related decisions and discussions

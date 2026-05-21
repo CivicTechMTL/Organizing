@@ -39,4 +39,4 @@ accessible: true
 
 ## Related
 - [[Venue Finder Role|Venue Finder]]
-- [[_Meetups]]
+- [Meetups](Meetups/_Meetups.md)

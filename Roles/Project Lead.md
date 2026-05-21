@@ -56,13 +56,13 @@ The Project Lead is responsible for guiding and managing a specific civic tech p
    - Create a clear understanding of what will be worked on at the next meetup
 
 ## Related Roles
-- [[Host]] — Main event coordinator
-- [[Civic Tech 101 Host]] — Introduces new members to projects
-- [[Greeter]] — Welcomes new project members
+- [Host](Roles/Host.md) — Main event coordinator
+- [Civic Tech 101 Host](Roles/Civic Tech 101 Host.md) — Introduces new members to projects
+- [Greeter](Roles/Greeter.md) — Welcomes new project members
 
 ## Related Documents
-- [[_Projects]] — Project profiles and overviews
-- [[Meetup Schedule]] — When projects meet
-- [[_Meetups]] — Individual project meetup details
-- [[How to Contribute]] — Getting involved
-- [[_Roles]] — All volunteer positions
+- [Projects](Projects/_Projects.md) — Project profiles and overviews
+- [Meetup Schedule](Meetups/Meetup Schedule.md) — When projects meet
+- [Meetups](Meetups/_Meetups.md) — Individual project meetup details
+- [How to Contribute](Resources/How to Contribute.md) — Getting involved
+- [Roles](Roles/_Roles.md) — All volunteer positions

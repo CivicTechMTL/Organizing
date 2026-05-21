@@ -7,17 +7,17 @@ aliases:
 Information about Civic Tech Montreal meetups, including schedules, event details, and past meetup notes.
 
 ## Meetup Schedule
-[[Meetup Schedule]] - Regular weekly meetup information and recurring details
+[Meetup Schedule](Meetups/Meetup Schedule.md) - Regular weekly meetup information and recurring details
 
 ## Upcoming Meetups
-- Check [[Meetup Schedule]] for regular meeting times
+- Check [Meetup Schedule](Meetups/Meetup Schedule.md) for regular meeting times
 - Individual meetup pages will be created for special events or themed sessions
 
 ## Using Meetup Pages
-- See [[Meetup Template]] for formatting new meetup events
-- Link to [[_Roles]] that are staffing the event
-- Link to [[_Venues]] where it's taking place
-- Note [[_Projects]] that will be featured or demoed
+- See [Meetup Template](Templates/Meetup Template.md) for formatting new meetup events
+- Link to [Roles](Roles/_Roles.md) that are staffing the event
+- Link to [Venues](Venues/_Venues.md) where it's taking place
+- Note [Projects](Projects/_Projects.md) that will be featured or demoed
 
 ## Recent Meetups
 Coming Soon!
@@ -31,7 +31,7 @@ Coming Soon!
 - **Registration**: [Link TBD]
 
 ## Related Documents
-- [[_Roles]] - Event facilitation volunteers
-- [[_Venues]] - Where we meet
-- [[_Projects]] - What we work on
-- [[Resources]] - Guides and documentation
+- [Roles](Roles/_Roles.md) - Event facilitation volunteers
+- [Venues](Venues/_Venues.md) - Where we meet
+- [Projects](Projects/_Projects.md) - What we work on
+- [Resources](Resources/_Resources.md) - Guides and documentation

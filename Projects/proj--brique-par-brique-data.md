@@ -34,7 +34,7 @@ repo-link:
 | | | |
 
 ## Resources
-- Related: [[_Venues]], [[_Meetups]]
+- Related: [Venues](Venues/_Venues.md), [Meetups](Meetups/_Meetups.md)
 - Documentation: 
 - Helpful Links: 
 

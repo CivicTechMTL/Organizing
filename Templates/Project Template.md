@@ -25,7 +25,7 @@ start-date:
 3. 
 
 ## Team & Roles
-- **Project Lead**: [[Project Lead]]
+- **Project Lead**: [Project Lead](Roles/Project Lead.md)
 - **Contributors**: 
 
 ## Key Milestones
@@ -34,7 +34,7 @@ start-date:
 | | | |
 
 ## Resources
-- Related: [[_Venues]], [[_Meetups]]
+- Related: [Venues](Venues/_Venues.md), [Meetups](Meetups/_Meetups.md)
 - Documentation: 
 - Helpful Links: 
 

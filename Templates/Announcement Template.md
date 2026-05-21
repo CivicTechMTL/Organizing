@@ -24,9 +24,9 @@ author:
 - 
 
 ## Related
-- [[_Projects]]
-- [[_Meetups]]
-- [[_Roles]]
+- [Projects](Projects/_Projects.md)
+- [Meetups](Meetups/_Meetups.md)
+- [Roles](Roles/_Roles.md)
 
 ## Archived For
 [Month/Year or topic category]

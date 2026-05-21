@@ -8,10 +8,10 @@ aliases:
 Historical record of organization-wide announcements, news, and milestones. This archive helps team members catch up on important updates and track the organization's growth.
 
 ## Using Announcement Pages
-- See [[Announcement Template]] for formatting new announcements
+- See [Announcement Template](Templates/Announcement Template.md) for formatting new announcements
 - Archive by month or topic
 - Include type (news, milestone, call for help, event, etc.)
-- Link to related [[_Projects]], [[_Meetups]], and [[_Roles]]
+- Link to related [Projects](Projects/_Projects.md), [Meetups](Meetups/_Meetups.md), and [Roles](Roles/_Roles.md)
 
 ## Recent Announcements
 Coming Soon! Add announcements as the organization grows.
@@ -28,7 +28,7 @@ Coming Soon! Add announcements as the organization grows.
 - **Other**: Items that don't fit other categories
 
 ## Publishing Announcements
-1. Create new announcement using [[Announcement Template]]
+1. Create new announcement using [Announcement Template](Templates/Announcement Template.md)
 2. Fill in details and relevant links
 3. Share on Slack and other channels
 4. Archive here for historical record
@@ -36,7 +36,7 @@ Coming Soon! Add announcements as the organization grows.
 ---
 
 ## Related Documentation
-- [[_Projects]] - Project news and updates
-- [[_Meetups]] - Event announcements
-- [[_Minutes]] - Decisions that lead to announcements
-- [[Resources]] - Important resource announcements
+- [Projects](Projects/_Projects.md) - Project news and updates
+- [Meetups](Meetups/_Meetups.md) - Event announcements
+- [Minutes](Minutes/_Minutes.md) - Decisions that lead to announcements
+- [Resources](Resources/_Resources.md) - Important resource announcements

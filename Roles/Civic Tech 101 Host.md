@@ -52,15 +52,15 @@ The Civic Tech 101 Host introduces new members to the world of civic technology 
 8. **Wrap Up the Session** — Thank everyone for attending and let them know where they can find more information about the community.
 
 ## Related Roles
-- [[Host]] — Main event emcee
-- [[Greeter]] — Welcome attendees
-- [[Project Lead]] — Guide active projects
-- [[Speaker Finder]] — Book speakers for education sessions
+- [Host](Roles/Host.md) — Main event emcee
+- [Greeter](Roles/Greeter.md) — Welcome attendees
+- [Project Lead](Roles/Project Lead.md) — Guide active projects
+- [Speaker Finder](Roles/Speaker Finder.md) — Book speakers for education sessions
 
 ## Related Documents
-- [[Resources]] — Learning materials and guides
-- [[Civic Tech Glossary]] — Key concepts and terms
-- [[How to Contribute]] — Getting started guide
-- [[_Projects]] — Active projects to introduce
-- [[Meetup Schedule]] — When sessions happen
-- [[_Roles]] — All volunteer positions
+- [Resources](Resources/_Resources.md) — Learning materials and guides
+- [Civic Tech Glossary](Resources/Civic Tech Glossary.md) — Key concepts and terms
+- [How to Contribute](Resources/How to Contribute.md) — Getting started guide
+- [Projects](Projects/_Projects.md) — Active projects to introduce
+- [Meetup Schedule](Meetups/Meetup Schedule.md) — When sessions happen
+- [Roles](Roles/_Roles.md) — All volunteer positions

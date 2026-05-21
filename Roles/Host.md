@@ -60,13 +60,13 @@ Before the meetup, review and update the presentation deck with the following:
    - End the meetup at the scheduled end time
 
 ## Related Roles
-- [[Greeter]] — Welcome attendees at the door
-- [[Civic Tech 101 Host]] — Lead newcomer education session
-- [[Project Lead]] — Guide project discussions
-- [[Speaker Finder]] — Book presentation speakers
+- [Greeter](Roles/Greeter.md) — Welcome attendees at the door
+- [Civic Tech 101 Host](Roles/Civic Tech 101 Host.md) — Lead newcomer education session
+- [Project Lead](Roles/Project Lead.md) — Guide project discussions
+- [Speaker Finder](Roles/Speaker Finder.md) — Book presentation speakers
 
 ## Related Documents
-- [[Meetup Schedule]] — Regular meetup times and locations
-- [[_Projects]] — Active projects to feature
-- [[_Announcements]] — Upcoming announcements to share
-- [[_Venues]] — Meetup location details
+- [Meetup Schedule](Meetups/Meetup Schedule.md) — Regular meetup times and locations
+- [Projects](Projects/_Projects.md) — Active projects to feature
+- [Announcements](Announcements/_Announcements.md) — Upcoming announcements to share
+- [Venues](Venues/_Venues.md) — Meetup location details

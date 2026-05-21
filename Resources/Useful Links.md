@@ -45,7 +45,7 @@ External resources, tools, and references for civic tech and community organizin
 - [Open Source Initiative](https://opensource.org/) - Open source guidance
 
 ## How to Contribute to Civic Tech
-See [[How to Contribute]] for getting started with Civic Tech Montreal.
+See [How to Contribute](Resources/How to Contribute.md) for getting started with Civic Tech Montreal.
 
 ## Learning Resources
-See [[Civic Tech Glossary]] for key terms and concepts.
+See [Civic Tech Glossary](Resources/Civic Tech Glossary.md) for key terms and concepts.

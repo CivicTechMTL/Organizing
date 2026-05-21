@@ -83,13 +83,13 @@ Sincerely,
 Civic Tech Montreal
 
 ## Related Roles
-- [[Greeter]] — Guides attendees at the venue
-- [[Host]] — Runs the event at the venue
-- [[Speaker Finder]] — May need projector/screen at venue
+- [Greeter](Roles/Greeter.md) — Guides attendees at the venue
+- [Host](Roles/Host.md) — Runs the event at the venue
+- [Speaker Finder](Roles/Speaker Finder.md) — May need projector/screen at venue
 
 ## Related Documents
-- [[_Venues]] — Venue directory and profiles
-- [[Meetup Schedule]] — When venues are needed
-- [[_Meetups]] — Individual meetup locations
-- [[_Roles]] — All volunteer positions
-- [[_Announcements]] — Announce new venues
+- [Venues](Venues/_Venues.md) — Venue directory and profiles
+- [Meetup Schedule](Meetups/Meetup Schedule.md) — When venues are needed
+- [Meetups](Meetups/_Meetups.md) — Individual meetup locations
+- [Roles](Roles/_Roles.md) — All volunteer positions
+- [Announcements](Announcements/_Announcements.md) — Announce new venues

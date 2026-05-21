@@ -38,6 +38,6 @@ next-meeting:
 - **Location/Link**: 
 
 ## Related Documents
-- [[_Projects]]
-- [[_Roles]]
-- [[_Announcements]]
+- [Projects](Projects/_Projects.md)
+- [Roles](Roles/_Roles.md)
+- [Announcements](Announcements/_Announcements.md)

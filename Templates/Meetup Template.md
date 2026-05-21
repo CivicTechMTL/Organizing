@@ -48,6 +48,6 @@ expected-attendance:
 - Follow-ups: 
 
 ## Related
-- [[Meetup Schedule]]
-- [[_Roles]]
-- [[_Projects]]
+- [Meetup Schedule](Meetups/Meetup Schedule.md)
+- [Roles](Roles/_Roles.md)
+- [Projects](Projects/_Projects.md)

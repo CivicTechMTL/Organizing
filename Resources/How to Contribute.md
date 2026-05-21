@@ -4,24 +4,24 @@ Welcome! There are many ways to get involved with Civic Tech Montreal, whether y
 
 ## Join Our Meetups
 - Attend weekly meetups to learn, network, and collaborate
-- See [[Meetup Schedule]] for meeting times and locations
+- See [Meetup Schedule](Meetups/Meetup Schedule.md) for meeting times and locations
 - No experience necessary — everyone is welcome!
 
 ## Volunteer Roles
 We're always looking for volunteers to fill key roles:
-- [[Greeter]] - Welcome new attendees
-- [[Host]] - Facilitate the meetup
-- [[Civic Tech 101 Host]] - Teach newcomers about civic tech
-- [[Venue Finder]] - Help find meeting spaces
-- [[Speaker Finder]] - Book presentation speakers
-- [[Project Lead]] - Guide a civic tech project
+- [Greeter](Roles/Greeter.md) - Welcome new attendees
+- [Host](Roles/Host.md) - Facilitate the meetup
+- [Civic Tech 101 Host](Roles/Civic Tech 101 Host.md) - Teach newcomers about civic tech
+- [Venue Finder](Roles/Venue Finder.md) - Help find meeting spaces
+- [Speaker Finder](Roles/Speaker Finder.md) - Book presentation speakers
+- [Project Lead](Roles/Project Lead.md) - Guide a civic tech project
 
 See [[Volunteer Roles|Roles]] for detailed information and time commitments.
 
 ## Get Involved with Projects
-- Browse [[_Projects]] to see active initiatives
+- Browse [Projects](Projects/_Projects.md) to see active initiatives
 - Check project [[Venues/README|README]] in their GitHub repo for how to contribute
-- Reach out to the [[Project Lead]] for your project of interest
+- Reach out to the [Project Lead](Roles/Project Lead.md) for your project of interest
 
 ## Share Your Skills
 - Coding? Help develop civic tech solutions
@@ -31,8 +31,8 @@ See [[Volunteer Roles|Roles]] for detailed information and time commitments.
 
 ## Ask Questions
 - Attend a meetup and ask in person
-- Check [[Civic Tech Glossary]] for terminology
-- Review [[Resources]] for learning materials
+- Check [Civic Tech Glossary](Resources/Civic Tech Glossary.md) for terminology
+- Review [Resources](Resources/_Resources.md) for learning materials
 
 ---
 

@@ -7,12 +7,12 @@ aliases:
 Guides, reference materials, and useful links for organizing and contributing to Civic Tech Montreal.
 
 ## Getting Started
-- [[How to Contribute]] - Steps to get involved with Civic Tech Montreal
-- [[Civic Tech Glossary]] - Terms and concepts you'll encounter
-- [[Obsidian Plugin Setup]] - Set up auto-updating dates and other features
+- [How to Contribute](Resources/How to Contribute.md) - Steps to get involved with Civic Tech Montreal
+- [Civic Tech Glossary](Resources/Civic Tech Glossary.md) - Terms and concepts you'll encounter
+- [Obsidian Plugin Setup](Resources/Obsidian Plugin Setup.md) - Set up auto-updating dates and other features
 
 ## Useful Links
-[[Useful Links]] - External resources, tools, and references
+[Useful Links](Resources/Useful Links.md) - External resources, tools, and references
 
 ## Resource Categories
 
@@ -38,9 +38,9 @@ Guides, reference materials, and useful links for organizing and contributing to
 - Share useful tools, guides, and links with the team
 - Add new resources to this section regularly
 - Keep documentation up-to-date
-- Link resources to related [[_Projects]] and [[_Roles]]
+- Link resources to related [Projects](Projects/_Projects.md) and [Roles](Roles/_Roles.md)
 
 ## Related Documentation
-- [[_Roles]] - Volunteer positions and responsibilities
-- [[_Projects]] - Civic tech projects we're working on
-- [[_Meetups]] - Events and gatherings
+- [Roles](Roles/_Roles.md) - Volunteer positions and responsibilities
+- [Projects](Projects/_Projects.md) - Civic tech projects we're working on
+- [Meetups](Meetups/_Meetups.md) - Events and gatherings

@@ -98,15 +98,15 @@ Sincerely,
 Civic Tech Montreal
 
 ## Related Roles
-- [[Host]] — Introduces speakers at meetups
-- [[Civic Tech 101 Host]] — May present on civic tech topics
-- [[Venue Finder]] — Ensures venue has presentation equipment
-- [[Project Lead]] — May be available to present on projects
+- [Host](Roles/Host.md) — Introduces speakers at meetups
+- [Civic Tech 101 Host](Roles/Civic Tech 101 Host.md) — May present on civic tech topics
+- [Venue Finder](Roles/Venue Finder.md) — Ensures venue has presentation equipment
+- [Project Lead](Roles/Project Lead.md) — May be available to present on projects
 
 ## Related Documents
-- [[Meetup Schedule]] — Speaking slots and dates
-- [[_Meetups]] — Individual meetup speaker details
-- [[_Projects]] — Topics for presentations
-- [[Resources]] — Civic tech topics and resources
-- [[Useful Links]] — Speaker resources and references
-- [[_Roles]] — All volunteer positions
+- [Meetup Schedule](Meetups/Meetup Schedule.md) — Speaking slots and dates
+- [Meetups](Meetups/_Meetups.md) — Individual meetup speaker details
+- [Projects](Projects/_Projects.md) — Topics for presentations
+- [Resources](Resources/_Resources.md) — Civic tech topics and resources
+- [Useful Links](Resources/Useful Links.md) — Speaker resources and references
+- [Roles](Roles/_Roles.md) — All volunteer positions

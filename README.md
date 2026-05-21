@@ -4,14 +4,14 @@ Welcome to the Civic Tech Montreal organizing repo! This is a central knowledge 
 
 ## 📖 What's in Here
 
-- **[[_Roles]]** — Volunteer positions and detailed runsheets
-- **[[_Meetups]]** — Meetup schedules, event details, and archives
-- **[[_Projects]]** — Civic tech projects we're working on
-- **[[_Venues]]** — Meeting spaces and event locations
-- **[[_Minutes]]** — Organizing team meeting notes and decisions
-- **[[_Announcements]]** — Organization news and updates
-- **[[Resources]]** — Guides, glossaries, and useful links
-- **[[_Templates]]** — Document templates for creating new pages
+- **[Roles](Roles/_Roles.md)** — Volunteer positions and detailed runsheets
+- **[Meetups](Meetups/_Meetups.md)** — Meetup schedules, event details, and archives
+- **[Projects](Projects/_Projects.md)** — Civic tech projects we're working on
+- **[Venues](Venues/_Venues.md)** — Meeting spaces and event locations
+- **[Minutes](Minutes/_Minutes.md)** — Organizing team meeting notes and decisions
+- **[Announcements](Announcements/_Announcements.md)** — Organization news and updates
+- **[Resources](Resources/_Resources.md)** — Guides, glossaries, and useful links
+- **[Templates](Templates/_Templates.md)** — Document templates for creating new pages
 
 ## 🚀 Quick Start
 
@@ -37,7 +37,7 @@ Welcome to the Civic Tech Montreal organizing repo! This is a central knowledge 
    - Click "Open" — Obsidian will recognize this as a vault!
 
 3. **Start Exploring:**
-   - Click any blue wikilink (like [[_Roles]] or [[_Projects]]) to navigate
+   - Click any blue wikilink (like [Roles](Roles/_Roles.md) or [Projects](Projects/_Projects.md)) to navigate
    - Use Obsidian's **Graph View** (Ctrl/Cmd + Shift + G) to see connections between documents
    - Click the file browser on the left to browse by folder
 
@@ -101,11 +101,11 @@ Documents are organized with **hierarchical tags** for easy filtering and discov
 
 Use **Templates** to create new documents with consistent structure:
 
-1. Go to the [[_Templates]] folder
-2. Copy a template (e.g., [[Project Template]])
+1. Go to the [Templates](Templates/_Templates.md) folder
+2. Copy a template (e.g., [Project Template](Templates/Project Template.md))
 3. Paste it and rename it with your content
 4. Fill in the details
-5. Link it from relevant index pages (like [[_Projects]] [[Venues/README|README]])
+5. Link it from relevant index pages (like [Projects](Projects/_Projects.md) [[Venues/README|README]])
 
 ### Search & Explore
 
@@ -118,8 +118,8 @@ Use **Templates** to create new documents with consistent structure:
 
 Several pages use **Dataview** to automatically compile and display lists:
 
-- **[[_Venues]]** — Table of all venues with capacity, accessibility, owner
-- **[[_Projects]]** — Table of all projects with status, sponsor, repo link
+- **[Venues](Venues/_Venues.md)** — Table of all venues with capacity, accessibility, owner
+- **[Projects](Projects/_Projects.md)** — Table of all projects with status, sponsor, repo link
 
 These tables **auto-update** when you create or modify venue/project documents. The YAML frontmatter fields (`capacity`, `status`, `owner`, etc.) populate the tables automatically.
 
@@ -127,9 +127,9 @@ These tables **auto-update** when you create or modify venue/project documents. 
 1. Obsidian Settings → Community Plugins → Browse
 2. Search for "Dataview"
 3. Install and Enable
-4. Tables on [[_Venues]] and [[_Projects]] will now display live data
+4. Tables on [Venues](Venues/_Venues.md) and [Projects](Projects/_Projects.md) will now display live data
 
-See [[Obsidian Plugin Setup]] for full plugin configuration details.
+See [Obsidian Plugin Setup](Resources/Obsidian Plugin Setup.md) for full plugin configuration details.
 
 ---
 
@@ -147,7 +147,7 @@ We welcome contributions! Here's how:
 - Use [[wikilinks]] to connect related documents
 - Update index READMEs when adding new documents
 - Keep document titles and links consistent
-- Use appropriate [[_Templates]] for new content
+- Use appropriate [Templates](Templates/_Templates.md) for new content
 
 ---
 
@@ -157,17 +157,17 @@ We welcome contributions! Here's how:
 
 | Section | Purpose | Key Files |
 |---------|---------|-----------|
-| [[_Roles]] | Volunteer positions and responsibilities | [[Host]], [[Greeter]], [[Project Lead]], etc. |
-| [[_Meetups]] | Event schedules and details | [[Meetup Schedule]], Individual meetup pages |
-| [[_Projects]] | Civic tech projects | Project profiles with GitHub links, status |
-| [[_Venues]] | Meeting locations | Venue contacts, accessibility, capacity |
-| [[_Minutes]] | Organizing decisions | Meeting notes and action items |
-| [[_Announcements]] | News and milestones | Organization updates and achievements |
-| [[Resources]] | Guides and references | [[How to Contribute]], [[Civic Tech Glossary]], [[Useful Links]] |
+| [Roles](Roles/_Roles.md) | Volunteer positions and responsibilities | [Host](Roles/Host.md), [Greeter](Roles/Greeter.md), [Project Lead](Roles/Project Lead.md), etc. |
+| [Meetups](Meetups/_Meetups.md) | Event schedules and details | [Meetup Schedule](Meetups/Meetup Schedule.md), Individual meetup pages |
+| [Projects](Projects/_Projects.md) | Civic tech projects | Project profiles with GitHub links, status |
+| [Venues](Venues/_Venues.md) | Meeting locations | Venue contacts, accessibility, capacity |
+| [Minutes](Minutes/_Minutes.md) | Organizing decisions | Meeting notes and action items |
+| [Announcements](Announcements/_Announcements.md) | News and milestones | Organization updates and achievements |
+| [Resources](Resources/_Resources.md) | Guides and references | [How to Contribute](Resources/How to Contribute.md), [Civic Tech Glossary](Resources/Civic Tech Glossary.md), [Useful Links](Resources/Useful Links.md) |
 
 ### Meta
 
-- **[[_Templates]]** — Document templates for consistency
+- **[Templates](Templates/_Templates.md)** — Document templates for consistency
 - **.obsidian/** — Obsidian vault configuration
 - **README.md** — This file
 
@@ -184,18 +184,18 @@ We welcome contributions! Here's how:
 
 ## ❓ Questions?
 
-- **Attending a meetup?** Introduce yourself and ask! See [[Meetup Schedule]]
-- **Want to volunteer?** Check out [[How to Contribute]] and [[_Roles]]
-- **Learning civic tech?** See [[Civic Tech Glossary]] and [[Useful Links]]
-- **Want to start a project?** See [[_Projects]]
+- **Attending a meetup?** Introduce yourself and ask! See [Meetup Schedule](Meetups/Meetup Schedule.md)
+- **Want to volunteer?** Check out [How to Contribute](Resources/How to Contribute.md) and [Roles](Roles/_Roles.md)
+- **Learning civic tech?** See [Civic Tech Glossary](Resources/Civic Tech Glossary.md) and [Useful Links](Resources/Useful Links.md)
+- **Want to start a project?** See [Projects](Projects/_Projects.md)
 
 ---
 
 ## 🎯 Next Steps
 
-- **New to civic tech?** Start with [[How to Contribute]]
-- **Looking for a role?** Browse [[_Roles]]
-- **Interested in a project?** Check [[_Projects]]
-- **Want to attend?** See [[Meetup Schedule]]
+- **New to civic tech?** Start with [How to Contribute](Resources/How to Contribute.md)
+- **Looking for a role?** Browse [Roles](Roles/_Roles.md)
+- **Interested in a project?** Check [Projects](Projects/_Projects.md)
+- **Want to attend?** See [Meetup Schedule](Meetups/Meetup Schedule.md)
 
 Welcome to Civic Tech Montreal! 🚀

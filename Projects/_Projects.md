@@ -7,9 +7,9 @@ aliases:
 Overview of active and past civic tech projects developed at Civic Tech Montreal. Each project has a dedicated page with details about the sponsor, status, and GitHub repository.
 
 ## Using Project Pages
-- See [[Project Template]] for formatting new project pages
+- See [Project Template](Templates/Project Template.md) for formatting new project pages
 - Include sponsor, start date, description, current status, and GitHub repo link
-- Link to [[_Roles]] of team members and [[_Venues]] for project work sessions
+- Link to [Roles](Roles/_Roles.md) of team members and [Venues](Venues/_Venues.md) for project work sessions
 - Update status regularly and include latest updates
 
 ## All Projects
@@ -38,15 +38,15 @@ sort file.name
 - **Completed**: Project delivered or concluded
 
 ## How to Add a Project
-1. Create a new file using the [[Project Template]]
+1. Create a new file using the [Project Template](Templates/Project Template.md)
 2. Fill in sponsor, date, description, status, and repo link
 3. Link it from this README
-4. Link from related [[_Roles]] and [[_Meetups]]
+4. Link from related [Roles](Roles/_Roles.md) and [Meetups](Meetups/_Meetups.md)
 
 ---
 
 ## Related Documentation
-- [[_Roles]] - Team members and project leadership
-- [[_Meetups]] - Where projects are discussed and demoed
-- [[Resources]] - Shared tools, guides, and documentation
-- [[_Minutes]] - Project decisions and updates
+- [Roles](Roles/_Roles.md) - Team members and project leadership
+- [Meetups](Meetups/_Meetups.md) - Where projects are discussed and demoed
+- [Resources](Resources/_Resources.md) - Shared tools, guides, and documentation
+- [Minutes](Minutes/_Minutes.md) - Project decisions and updates
