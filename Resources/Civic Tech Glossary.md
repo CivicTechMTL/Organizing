@@ -1,5 +1,7 @@
 # Civic Tech Glossary
 
+**English** · [Français](Glossaire%20de%20la%20tech%20civique.md)
+
 Terms and concepts you'll encounter at Civic Tech Montreal.
 
 ## Core Concepts
